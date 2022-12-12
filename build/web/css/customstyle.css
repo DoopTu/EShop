@@ -1,0 +1,97 @@
+.contain_viewcart{
+    width: 100%;
+    display: flex;
+
+}
+.cart_summary{    
+    width: 30%;
+    border: 0.5px solid #EDF1FF;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.cart_summary div {
+    border: 0.5px solid #EDF1FF;
+    text-align: center;
+    height: 50px;
+    background-color: #EDF1FF;
+
+
+}
+
+.cart_summary span{
+    font-size: 20px;
+    font-weight: bold;        
+}
+
+.cart_summary p{
+    border-bottom: 0.5px solid #EDF1FF;   
+}
+
+.form_search_account button{
+    
+    background-color: #D19C97;
+    border: 0.5px solid #EDF1FF;
+}
+.cart_summary button{
+    width: 100%;
+    height: 50px;
+    background-color: #D19C97;
+    border: 0.5px solid #EDF1FF;
+}
+
+.detail_viewcart{
+    border: 0.5px solid #EDF1FF;
+    text-align: center; 
+    margin-left: 5%;
+    width:65%; 
+    border: 0.2px solid #EDF1FF;
+
+
+}
+
+.detail_viewcart th{
+    background-color: #EDF1FF;
+}
+
+.list_order{
+    border: 0.5px solid #EDF1FF;
+    text-align: center; 
+    margin: 0 auto;
+    width:80%; 
+
+}
+
+.list_order tr{
+    border: 0.5px solid #EDF1FF;
+}
+
+.login_h2{
+    font-family-sans-serif: "Poppins", sans-serif;
+}
+
+.form_search_account{
+    margin-bottom: 50px;
+}
+
+#add_form_background{
+    position: absolute;
+    z-index: 1;
+    background-color: black;
+    height: 10000px;
+    width: 1000px;
+}
+
+#add_form{
+    position: absolute;
+    z-index: 1;
+    background-color: black;
+    height: 10000px;
+    width: 1000px;
+}
+
+.aaa{
+    color: red !important;
+    display: none;
+}
